@@ -1,0 +1,140 @@
+{
+    "manufacturer": "nekko_adenosine",
+    "keyboard_name": "the_embodiment_of_scarlet_keyboarder",
+    "maintainer": "ATP",
+    "bootloader": "caterina",
+    "diode_direction": "COL2ROW",
+    "features": {
+        "bootmagic": true,
+        "command": false,
+        "console": false,
+        "extrakey": true,
+        "mousekey": true,
+        "nkro": true
+    },
+    "matrix_pins": {
+        "cols": [ "D4", "C6", "D7", "E6", "B1", "B3", "B2", "B6" ],
+        "rows": [ "B4", "B5" ]
+    },
+    "processor": "atmega32u4",
+    "url": "",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x0000",
+        "vid": "0xFEED"
+    },
+    "layouts": {
+        "LAYOUT_8x2": {
+            "layout": [
+                {
+                    "matrix": [0, 7],
+                    "label": "SW1",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "matrix": [ 0, 6 ],
+                    "label": "SW2",
+                    "x": 1,
+                    "y": 0
+                },
+                {
+                    "matrix": [ 0, 5 ],
+                    "label": "SW3",
+                    "x": 2,
+                    "y": 0
+                },
+                {
+                    "matrix": [ 0, 4 ],
+                    "label": "SW4",
+                    "x": 3,
+                    "y": 0
+                },
+                {
+
+                    "matrix": [ 0, 3 ],
+                    "label": "SW9",
+                    "x": 5,
+                    "y": 0
+                },
+                {
+
+                    "matrix": [ 0, 2 ],
+                    "label": "SW10",
+                    "x": 6,
+                    "y": 0
+                },
+                {
+
+                    "matrix": [ 0, 1 ],
+                    "label": "SW11",
+                    "x": 7,
+                    "y": 0
+                },
+                {
+
+                    "matrix": [ 0, 0 ],
+                    "label": "SW12",
+                    "x": 8,
+                    "y": 0
+                },
+                {
+
+                    "matrix": [ 1, 7 ],
+                    "label": "SW5",
+                    "x": 0,
+                    "y": 1
+                },
+                {
+
+                    "matrix": [ 1, 6 ],
+                    "label": "SW6",
+                    "x": 1,
+                    "y": 1
+                },
+                {
+
+                    "matrix": [ 1, 5 ],
+                    "label": "SW7",
+                    "x": 2,
+                    "y": 1
+                },
+                {
+
+                    "matrix": [ 1, 4 ],
+                    "label": "SW8",
+                    "x": 3,
+                    "y": 1
+                },
+                {
+
+                    "matrix": [ 1, 3 ],
+                    "label": "SW13",
+                    "x": 5,
+                    "y": 1
+                },
+                {
+
+                    "matrix": [ 1, 2 ],
+                    "label": "SW14",
+                    "x": 6,
+                    "y": 1
+                },
+                {
+
+                    "matrix": [ 1, 1 ],
+                    "label": "SW15",
+                    "x": 7,
+                    "y": 1
+                },
+                {
+
+                    "matrix": [ 1, 0 ],
+                    "label": "SW16",
+                    "x": 8,
+                    "y": 1
+                }
+            ]
+        }
+    }
+}
