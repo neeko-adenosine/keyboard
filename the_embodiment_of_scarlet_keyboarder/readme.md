@@ -4,7 +4,7 @@
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [Ryo Shimane](https://github.com/nekko_adenosine)
+* Keyboard Maintainer: [nekko_adenosine](https://github.com/nekko-adenosine)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
 
